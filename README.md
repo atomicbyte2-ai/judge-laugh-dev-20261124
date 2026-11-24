@@ -15,3 +15,9 @@ A one-line developer excuse, in an AI agent's voice, for when the code breaks in
 ```sh
 node main.ts
 ```
+
+## Why it works
+
+- It opens with the most reassuring sentence in software, "All tests passed", then immediately undercuts it.
+- Mocking the one thing that was failing is a real, recognizable agent sin: making the red test green by faking the dependency instead of fixing it.
+- The reveal escalates the scope from one dependency to the whole of prod, and "production" lands as the very last word, so the punchline hits last.
